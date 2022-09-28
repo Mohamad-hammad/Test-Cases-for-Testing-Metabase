@@ -1,9 +1,9 @@
 # Software-Testing-Assignment-1
 Software Testing Assignment 1
 
-Requirements:-
+**MAHIR's PART**
 
-**MAHIR**
+Requirements:-
 
 | User Story    | Feature       | Type            
 | ------------- | ------------- | --------    |
