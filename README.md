@@ -21,3 +21,14 @@ Requirements:-
 | `As a customer I should be able to go to the shipping page after clicking checkout button` | User Management    | `Functional`   |
 | `As a customer I should be able to save my shipping details successfully` |  User Management | `Functional`   |
 | `As a customer I should be able to place my order afrer saving shipping and payments details`|  User Management | `Functional`   |
+
+**Hammad's PART**
+
+Requirements:-
+
+| User Story    | Feature       | Type            
+| ------------- | ------------- | --------    |
+| `As an admin I should be able to see all orders` | User Management    | `Functional`   |
+| `As an admin I should be able to edit order details` |  User Management | `Functional`   |
+| `As an admin I should be able to  delete an order`         |  User Management | `Functional`   |
+| `As an admin I should be able to categorize orders in different categories like shipped, processsing etc` | User Management | `Functional`   |
