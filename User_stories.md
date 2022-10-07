@@ -54,5 +54,8 @@ SQL Queries:-
 | ------------- | ------------- | --------    |
 | `As a user i should be able to write sql queries` | User Management    | `Functional`   |
 | `As a user I should be able to execute sql querires` |  User Management | `Functional`   |
-| `As an admin I should be able to  delete an order`         |  User Management | `Functional`   |
-| `As an admin I should be able to categorize orders in different categories like shipped, processsing etc` | User Management | `Functional`   |
+| `As a user I should be able to use Query Builder to analyze the data`         |  User Management | `Functional`   |
+| `As a user I should be able to apply filters while building a query` | User Management | `Functional`   |
+| `As a user I should be able to visibily see the result of the query that I built using the Query Builder` | User Management | `Functional`   |
+| `As a user I should be able to use custom expressions to create more sophisticated custom filters and summarizations` | User Management | `Functional`   |
+
