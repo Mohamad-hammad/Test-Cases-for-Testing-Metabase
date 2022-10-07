@@ -48,11 +48,11 @@ Requirements:-
 
 **Hammad's PART**
 
-Requirements:-
+SQL Queries:-
 
 | User Story    | Feature       | Type            
 | ------------- | ------------- | --------    |
-| `As an admin I should be able to see all orders` | User Management    | `Functional`   |
-| `As an admin I should be able to edit order details` |  User Management | `Functional`   |
+| `As a user i should be able to write sql queries` | User Management    | `Functional`   |
+| `As a user I should be able to execute sql querires` |  User Management | `Functional`   |
 | `As an admin I should be able to  delete an order`         |  User Management | `Functional`   |
 | `As an admin I should be able to categorize orders in different categories like shipped, processsing etc` | User Management | `Functional`   |
