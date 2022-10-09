@@ -10,10 +10,6 @@ User Story For "Questions" feature in Metabase
 | `As a user I should be able to write a question` |  User Behviour | `Functional`   |
 | `As a user I should be able to add a saved question to a dashboard` |  User Behviour | `Functional`   |
 | `As a user I should be able to write the question having a certain word count` |  User Behviour | `Functional`   |
-| `As a user I should be able to add the newly saved question to the dashboard directly from the window ` | User Behviour | `Functional`   |
-| `As a user I should be able to add the newly saved question through pencil icon` |  User Behviour | `Functional`   |
-| `As a user I should be able to add a saved question by editing dashboard` |  User Behviour | `Functional`   |
-| `As a user I should be able to add a saved question to dashboard regardless of the collection they are currently present` |  User Behviour | `Functional`   |(7)
 
 User Story For "text cards" feature in Metabase
 
