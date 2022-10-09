@@ -72,6 +72,7 @@ Visulaization
 | `As a user I should be able to visualize my data in different type of graphs`|  User Management | `Functional`   |
 | `As a user I should be able to set my goal mark on graph`|  User Management | `Functional`   |
 | `As a user I should be able to see the trend of data`|  User Management | `Functional`   |
+| `As a user I should be able to group the data`|  User Management | `Functional`   |
 | `As a user I should be able to see the dots on line graph according to grouping of data`|  User Management | `Functional`   |
 | `As a user I should be able to Change the properties of graph`|  User Management | `Functional`   |
 
