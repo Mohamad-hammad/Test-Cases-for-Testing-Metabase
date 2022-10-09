@@ -86,3 +86,4 @@ Models:
 | User Story    | Feature       | Type            
 | ------------- | ------------- | --------    |
 | `As a user i should be able create models` | User Management    | `Functional`   |
+| `As a user i should be able save questions as models` | User Management    | `Functional`   |
