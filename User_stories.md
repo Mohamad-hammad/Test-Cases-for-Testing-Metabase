@@ -25,15 +25,6 @@ User Story For "text cards" feature in Metabase
 | `As a user I should be able to preview a text cards` |  User Behviour | `Functional`   |
 | `As a user I should be able to edit a text cards` |  User Behviour | `Functional`   |
 | `As a user I should be able to remove a text cards` |  User Behviour | `Functional`   |
-| `As a user I should be able to format text with Markdown in text cards` |  User Behviour | `Functional`   |
-| `As a user I should be able to add inline tables with Markdown in text cards` |  User Behviour | `Functional`   |
-| `As a user I should be able to add code snippets with Markdown in text cards` |  User Behviour | `Functional`   |
-| `As a user I should be able to add embeded links images with Markdown in text cards` |  User Behviour | `Functional`   |
-| `As a user I should be able to add variables in the text cards` |  User Behviour | `Functional`   |
-| `As a user I should be able to move the text cards around in the dashboard` |  User Behviour | `Functional`   |
-| `As a user I should be able to resize the text cards` |  User Behviour | `Functional`   |
-| `As a user I should be able to edit the text cards visualization settings` |  User Behviour | `Functional`   |
-| `As a user I should be able to reset the text cards visualization settings` |  User Behviour | `Functional`   |
 
 
 **MAHAD's PART**
