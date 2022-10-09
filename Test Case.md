@@ -22,4 +22,4 @@ Feature:Filter Widgets -Test Cases:-
 Test Cycle 1: 
 | Test Case ID | Test Scenario | Status | Tags | Priority | Linked Requirement | Created Time | Created By | Last Updated By | Test Case |            
 | ------------- | ------------- | -------- |------ | ------------- | -------- |------------- | ------------- | -------- |--------------- |
-| `User-Behavior` | `User is able to write a question`| `In Progress` | `User Management | 'User Management,Functional, Questions` | `High` | `As a user I should be able to write a question for the dashboard `|`October 9,2022 4:42 PM`|`Mahir`|'Mahir'|`Given I am on a Dashboard When I write a click the pencil symbol Then I am able to write a question`   |
+| `User-Behavior` | `User is able to write a question`| `In Progress` | 'User Management,Functional, Questions`| `High` | `As a user I should be able to write a question for the dashboard ` | `October 9,2022 4:42 PM` |`Mahir`|'Mahir'| `Given I am on a Dashboard When I write a click the pencil symbol Then I am able to write a question` |
