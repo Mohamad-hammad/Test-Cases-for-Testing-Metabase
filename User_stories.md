@@ -61,6 +61,8 @@ Custom Columns
 | User Story    | Feature       | Type            
 | ------------- | ------------- | --------    |
 | `As a user I should be able to create custom columns`|  User Management | `Functional`   |
+| `As a user I should be able to receive error on performing Mathematical opertaions on different data types columns`|  User Management | `Functional`   |
+
 
 Field Filters
 
