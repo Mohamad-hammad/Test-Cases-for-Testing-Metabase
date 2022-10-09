@@ -19,8 +19,6 @@ User Story For "text cards" feature in Metabase
 | `As a user I should be able to add an image to the text cards` |  User Behviour | `Functional`   |
 | `As a user I should be able to add a gif to the text cards` |  User Behviour | `Functional`   |
 | `As a user I should be able to preview a text cards` |  User Behviour | `Functional`   |
-| `As a user I should be able to edit a text cards` |  User Behviour | `Functional`   |
-| `As a user I should be able to remove a text cards` |  User Behviour | `Functional`   |
 
 
 **MAHAD's PART**
