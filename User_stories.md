@@ -49,7 +49,6 @@ Filter Widgets
 | `As a user I should be able to have default value option in filter widget`|  User Management | `Functional`   |
 | `As a user I should be able to get required results after input a certain value`|  User Management | `Functional`   |
 | `As a user I should be able to receive error message while giving wrong input`|  User Management | `Functional`   |
-| `As a user I should be able to save my widget to the dashboard`|  User Management | `Functional`   |
 | `As a user I should be able to provide the input option to the dashboard`|  User Management | `Functional`   |
 
 
