@@ -84,3 +84,5 @@ SQL Queries:-
 
 Models:
 | User Story    | Feature       | Type            
+| ------------- | ------------- | --------    |
+| `As a user i should be able create models` | User Management    | `Functional`   |
