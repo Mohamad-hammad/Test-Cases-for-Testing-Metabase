@@ -16,8 +16,8 @@ User Story For "text cards" feature in Metabase
 | User Story    | Feature       | Type            
 | ------------- | ------------- | --------    |
 | `As a user I should be able to add text cards to the dashboard` |  User Behviour | `Functional`   |
-| `As a user I should be able to write any description, explanation, or notes on text cards` |  User Behviour | `Functional`   |
-| `As a user I should be able to add an image or a gif to the text cards` |  User Behviour | `Functional`   |
+| `As a user I should be able to add an image to the text cards` |  User Behviour | `Functional`   |
+| `As a user I should be able to add a gif to the text cards` |  User Behviour | `Functional`   |
 | `As a user I should be able to preview a text cards` |  User Behviour | `Functional`   |
 | `As a user I should be able to edit a text cards` |  User Behviour | `Functional`   |
 | `As a user I should be able to remove a text cards` |  User Behviour | `Functional`   |
