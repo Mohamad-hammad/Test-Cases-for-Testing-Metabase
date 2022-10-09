@@ -8,7 +8,7 @@ User Story For "Questions" feature in Metabase
 | User Story    | Feature       | Type            
 | ------------- | ------------- | --------    |
 | `As a user I should be able to write a question` |  User Behviour | `Functional`   |
-| `As a user I should be able to save a question` |  User Behviour | `Functional`   |
+| `As a user I should be able to add a saved question to a dashboard` |  User Behviour | `Functional`   |
 | `As a user I should be able to write the question having a certain word count` |  User Behviour | `Functional`   |
 | `As a user I should be able to add the newly saved question to the dashboard directly from the window ` | User Behviour | `Functional`   |
 | `As a user I should be able to add the newly saved question through pencil icon` |  User Behviour | `Functional`   |
