@@ -19,3 +19,16 @@ FitNesse is a web server, a wiki and an automated testing tool for software. Thi
 1-This tool is open source soo the developers, testers and customers come together to form test cases and stories.
 2-The main feature of this tool is that it help the testers, developers and customers to collaborate together to create automated tests. What they do is first they check   the behavior of software that on what inputs what outputs need to come. Then they write scripts with the features provided by the Fitnesse. Than they run their cases     and create the required documentations.
 3-There are some simple formats for writing simple cases and the basic business format for different complex cases.
+
+
+**MAHIR's PART**
+
+Tool: Zephyr
+It's surely a great management tool having all the solutions at one place, it would bring BDD, test management, and automation under one umbrella. Some major benefits are as follows:
+1. Having ened-to-end traceability is one of the perks that Zephyr offers by providing reports having real-time tracking progress of projects.
+2. The most significant thing that would be used in validating everything whether its your takeways or insights is Analytics and Data Validate.
+3. It would also provide confirmation related to the release/deployement and synchronize the team
+4. Focusing on essential parts of software with test automation leads to quality software development
+5. Speed and Scale side by side with a bunch of quality automation frameworks
+6. Empowering the team is the best thing one can do by selecting Zephyr for better team collaboration and foster communication.
+
