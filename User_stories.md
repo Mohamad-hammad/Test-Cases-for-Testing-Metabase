@@ -50,10 +50,14 @@ Filter Widgets
 
 Custom Columns
 
+| User Story    | Feature       | Type            
+| ------------- | ------------- | --------    |
 | `As a user I should be able to create custom columns`|  User Management | `Functional`   |
 
 Field Filters
 
+| User Story    | Feature       | Type            
+| ------------- | ------------- | --------    |
 | `As a user I should be able to create field filters`|  User Management | `Functional`   |
 | `As a user I should be able to add field filters to the dashboard`|  User Management | `Functional`   |
 
