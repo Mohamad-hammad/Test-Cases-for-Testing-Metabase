@@ -56,10 +56,5 @@ Test Cycle 1:
 
 
 **Hammad's PART**
-Test Cycle1:
-| Test Case ID | Test Scenario &nbsp; &nbsp;  | Status | Tags | Priority | Linked Requirement | Created Time | Created By | Last Updated By | Test Case &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   |            
-| ------------- | ------------- | -------- |------ | ------------- | -------- |------------- | ------------- | -------- |--------------- |
-| 'sql-123123 | 'User is able to use the SQL editor for queries' | 'In progress' | 'User Management,Functional, Questions`| `High` | `As a User I should be able to </br> write SQL queries` | `October 1, 2022 03:52 PM` | `Hammad` | `Hammad` | `Given I have already added database
-When I click the New button
-And I select SQL query from the drop down menu
-Then the query editor should open And I should be able to write queries` |
+Test cases are on confluence. Use following link
+https://hmmahir.atlassian.net/l/cp/2Pj5Y0MS
