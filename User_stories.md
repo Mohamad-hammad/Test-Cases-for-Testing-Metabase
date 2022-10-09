@@ -87,3 +87,5 @@ Models:
 | ------------- | ------------- | --------    |
 | `As a user i should be able create models` | User Management    | `Functional`   |
 | `As a user i should be able save questions as models` | User Management    | `Functional`   |
+| `As a user i should be able to add metadata to models` | User Management    | `Functional`   |
+| `As a user i should be able to create models without using sql variables` | User Management    | `Functional`   |
