@@ -42,9 +42,15 @@ Requirements:-
 
 | User Story    | Feature       | Type            
 | ------------- | ------------- | --------    |
-| `As a customer I should be able to go to the shipping page after clicking checkout button` | User Management    | `Functional`   |
-| `As a customer I should be able to save my shipping details successfully` |  User Management | `Functional`   |
-| `As a customer I should be able to place my order afrer saving shipping and payments details`|  User Management | `Functional`   |
+| `As a user I should be able to create filter widgets` | User Management    | `Functional`   |
+| `As a user I should be able to save my filter widgets to a certain dashboard` |  User Management | `Functional`   |
+| `As a user I should be able to create variable according to type`|  User Management | `Functional`   |
+| `As a user I should be able to have required value option in filter widget`|  User Management | `Functional`   |
+| `As a user I should be able to have default value option in filter widget`|  User Management | `Functional`   |
+| `As a user I should be able to create custom columns`|  User Management | `Functional`   |
+
+
+
 
 **Hammad's PART**
 
