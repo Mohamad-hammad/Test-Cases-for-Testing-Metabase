@@ -82,3 +82,5 @@ SQL Queries:-
 | `As a user I should be able to visibily see the result of the query that I built using the Query Builder` | User Management | `Functional`   |
 | `As a user I should be able to use custom expressions to create more sophisticated custom filters and summarizations` | User Management | `Functional`   |
 
+Models:
+| User Story    | Feature       | Type            
