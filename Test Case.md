@@ -3,7 +3,7 @@ Software Testing Assignment 1
 
 **MAHAD's PART**
 
-Feature:Filter Widgets -Test Cases:-
+Feature:Filter Widgets -Test Cases
 
 | Test Case ID | Test Scenario | Status | Tags | Priority | Linked Requirement | Created Time | Created By | Last Updated By | Test Case |            
 | ------------- | ------------- | -------- |------ | ------------- | -------- |------------- | ------------- | -------- |--------------- |
@@ -16,3 +16,11 @@ Feature:Filter Widgets -Test Cases:-
 | `Widget-aa1e33ba1` | `User is able to prompt the Metabase that value is required for variable to get the results `|`In Progress` |`User Management,Functional,Filter Widgets`|`High`|`As a user I should be able to have required value option in filter widget`|`October 7,2022 4:50 PM`|`M.Mahad.Ch`|'M.Mahad.Ch'| `Given I am on Widget Panel When I click on required option Then I prompt the Metabase that value is required for variable to get the results `|
 | `Widget-aa1e33ba1` | `User is able to prompt the Metabase that value is optional for variable to get the results  `|`In Progress` |`User Management,Functional,Filter Widgets`|`High`|`As a user I should be able to have required value option in filter widget`|`October 7,2022 4:50 PM`|`M.Mahad.Ch`|'M.Mahad.Ch'| `Given I am on Widget Panel And I am already on mandatory value required option When I click on required option Then I prompt the Metabase that value is optional for variable to get the results  `|
 | `Widget-aa1e33ba1` | `User is able to give default value when required option is on `|`In Progress` |`User Management,Functional,Filter Widgets`|`High`|`As a user I should be able to have default value option in filter widget`|`October 7,2022 4:50 PM`|`M.Mahad.Ch`|'M.Mahad.Ch'| `Given I am on Widget Panel And I am already on mandatory value required option When I click on deafult vale option Then I am able to give the default value`|
+| `Widget-aa1e33ba1` | `User is able to save that widget in new dashboard`|`In Progress` |`User Management,Functional,Filter Widgets`|`High`|`As a user I should be able to save my filter widgets to a certain dashboard	`|`October 7,2022 4:50 PM`|`M.Mahad.Ch`|'M.Mahad.Ch'|  `Given I am on SQL query page When I click on save button Then I am able to create new dashboard and save my widget`|
+| `Widget-aa1e33ba1` | `User is able to provide input value option of widget to dashboard`|`In Progress` |`User Management,Functional,Filter Widgets`|`High`|`As a user I should be able to provide the input option to the dashboard`|`October 7,2022 4:50 PM`|`M.Mahad.Ch`|'M.Mahad.Ch'| `Given I am on dashboard And I have saved my widget on it When I click on add filter icon Then I am able to create a Input value option for the dashboard according to the type`|
+| `Widget-aa1e33ba1` | `User is able to see the widget result and Input option on dashboard`|`In Progress` |`User Management,Functional,Filter Widgets`|`High`|`As a user I should be able to save my filter widgets to a certain dashboard	`|`October 7,2022 4:50 PM`|`M.Mahad.Ch`|'M.Mahad.Ch'|  `Given I am on dashboard page And I have saved my widget on new dashboard And added Input option Then I am able to see the required result on dashboard and the Input option`|
+| `Widget-08bfc001b` | `User is able to remove the filter widget when removed in SQL query`| `In Progress` | `User Management,Functional,Filter Widgets` | `High` | `As a user I should be able to remove the widget`|`October 7,2022 4:50 PM`|`M.Mahad.Ch`|'M.Mahad.Ch'|`Given I am on SQL query When I remove a widget query Then I am able to remove my filter widget`|
+
+Feature:Custom Columns -Test Cases
+
+| `Custom Coulmns-aa1e33ba1` | `User is able to go to the custom columns creation page`|`In Progress` |`User Management,Functional,Filter Widgets`|`Low`|`As a user I should be able to create custom columns`|`October 7,2022 4:50 PM`|`M.Mahad.Ch`|'M.Mahad.Ch'|  `Given I am on Question Page When I click on Show Editor Option Then I am able to select the create custom columns option Then successfully go to custom columns page`   |
